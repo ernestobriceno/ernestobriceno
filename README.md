@@ -139,8 +139,8 @@ Incluye dashboard de BI e integración con mailing.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestobriceno&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobriceno&layout=compact" height="160" />
 </p>
 
 ---
